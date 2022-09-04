@@ -4,3 +4,4 @@
 - Web Design for Everybody :  https://coursera.org/share/ba896e63895c34cf29c79d9f86da2c54
 - Project Management Principles and Practices : https://coursera.org/share/cafe92b595d8156eeca96566db7f720c
 - Modern Application Development with Java on AWS : https://coursera.org/share/912ff51cd56729b86ddc50e4ab0521fd
+- CertNexus Certified Ethical Emerging Technologist : 
